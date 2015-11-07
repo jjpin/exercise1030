@@ -24,7 +24,7 @@ void draw(){
   rotate(earthY);
   image(earth, 150+earthX, 150+earthY);
   
-  //moon
+  //moon 
   float ix=25, iy=25;
   float angle = 0; 
   float size = 20*5/3;
